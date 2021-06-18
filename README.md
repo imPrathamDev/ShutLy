@@ -49,7 +49,7 @@ Maybe site will not working properly because we are using free host which have s
 If you have any feedback, please reach out to us at pratham@ongakugarage.in
 
   
-## Authors
+## Author
 
 - [@pratham2105](https://www.github.com/pratham2105)
 
